@@ -1,2 +1,2 @@
 # Llenguatge-de-Marques
-Prueba ejercicio 1 Lenguaje de marcas
+Pruebas de archivos PS, RTF, XML y HTML subidas.
